@@ -15,7 +15,6 @@ Git repositories.
 
 ```{}
 git checkout HEAD~1 <filename>
-
 ```
 
 The user is now "looking at" the previous version of the file, and can work from there, or
