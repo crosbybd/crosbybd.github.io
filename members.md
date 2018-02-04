@@ -1,20 +1,22 @@
 | Home | Members | Teaching | Publications | Prospective Students | Photos | Contact
 
-### Current Members:
+#### Current Members:
 --------------------
 
 
-#### Principal Investigator
+### Principal Investigator
 
 Dr. Vicki Friesen
 
 
-#### Research Associates
+
+### Research Associates
 
 Dr. Tim Birt
 
 
-#### Post-doctoral Fellows
+
+### Post-doctoral Fellows
 
 Dr. Becky Taylor
 
@@ -23,7 +25,8 @@ Dr. Ryan Franckowiack
 Dr. Deborah Leigh
 
 
-#### MSc Students
+
+### MSc Students
 
 Drew Sauve
 
@@ -36,7 +39,8 @@ Katie Birchard
 Lily Colston-Nepali
 
 
-#### Honours BSc Students
+
+### Honours BSc Students
 
 Emma Lachance Linklater
 
@@ -45,14 +49,16 @@ Spencer Kalan
 Sam McCaul
 
 
-#### Research Technicians
+
+### Research Technicians
 
 Bronwyn Harkness
 
 Nate Clark
 
 
-#### Volunteers
+
+### Volunteers
 
 Carina Lai
 
@@ -60,11 +66,12 @@ Emma
 
 
 
-### Former Members:
+
+#### Former Members:
 -------------------
 
 
-#### Post-doctoral fellows
+### Post-doctoral fellows
 
 Dr. Gabriela Ibarguchi
 
@@ -77,7 +84,8 @@ Dr. Brad Congdon
 Dr. Anna Tigano
 
 
-#### PhD students
+
+### PhD students
 
 Becky Taylor - (co-supervised with Stephen Lougheed)
 
@@ -98,7 +106,8 @@ Martin Damus  - Evolutionary genetics and conservation of murres
 Karen Holder - Evolutionary genetics of rock ptarmigan (co-supervised with Bob Montgomerie)
 
 
-#### MSc students
+
+### MSc students
 
 Nate Clark - 
 
@@ -127,7 +136,8 @@ Monica Kidd - Population genetic variation in guillemots
 
 
 
-#### Honours BSc students
+
+### Honours BSc students
 
 Hannah Driver - 
 
